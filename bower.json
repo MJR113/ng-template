@@ -1,0 +1,17 @@
+{
+  "name": "ng-template",
+  "description": "Angular Starter Template",
+  "main": "gulpfile.js",
+  "authors": [
+    "Matthew Rouillard <Matthew.Rouillard@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MJR113/ng-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
