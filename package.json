@@ -1,0 +1,19 @@
+{
+  "name": "ng-template",
+  "version": "1.0.0",
+  "description": "Angular Starter Template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJR113/ng-template.git"
+  },
+  "author": "Matthew Rouillard <Matthew.Rouillard@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJR113/ng-template/issues"
+  },
+  "homepage": "https://github.com/MJR113/ng-template#readme"
+}
